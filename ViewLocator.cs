@@ -2,9 +2,9 @@ using System;
 using System.Diagnostics.CodeAnalysis;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using Converter2.ViewModels;
+using Converter.ViewModels;
 
-namespace Converter2;
+namespace Converter;
 
 /// <summary>
 /// Given a view model, returns the corresponding view if possible.

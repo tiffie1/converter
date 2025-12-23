@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace Converter2;
+namespace Converter;
 
 sealed class Program
 {

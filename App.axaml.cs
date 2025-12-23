@@ -4,10 +4,10 @@ using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using System.Linq;
 using Avalonia.Markup.Xaml;
-using Converter2.ViewModels;
-using Converter2.Views;
+using Converter.ViewModels;
+using Converter.Views;
 
-namespace Converter2;
+namespace Converter;
 
 public partial class App : Application
 {

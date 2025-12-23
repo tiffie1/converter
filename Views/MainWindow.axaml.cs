@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace Converter2.Views;
+namespace Converter.Views;
 
 public partial class MainWindow : Window
 {

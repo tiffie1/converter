@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Converter2/1.0.0": {
+      "Converter/1.0.0": {
         "dependencies": {
           "Avalonia": "11.3.10",
           "Avalonia.Desktop": "11.3.10",
@@ -16,7 +16,7 @@
           "CommunityToolkit.Mvvm": "8.2.1"
         },
         "runtime": {
-          "Converter2.dll": {}
+          "Converter.dll": {}
         }
       },
       "Avalonia/11.3.10": {
@@ -448,7 +448,7 @@
     }
   },
   "libraries": {
-    "Converter2/1.0.0": {
+    "Converter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

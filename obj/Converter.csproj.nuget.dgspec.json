@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tiffie/Documents/Code/Converter/Converter2.csproj": {}
+    "/Users/tiffie/Documents/Code/Converter/Converter.csproj": {}
   },
   "projects": {
-    "/Users/tiffie/Documents/Code/Converter/Converter2.csproj": {
+    "/Users/tiffie/Documents/Code/Converter/Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tiffie/Documents/Code/Converter/Converter2.csproj",
-        "projectName": "Converter2",
-        "projectPath": "/Users/tiffie/Documents/Code/Converter/Converter2.csproj",
+        "projectUniqueName": "/Users/tiffie/Documents/Code/Converter/Converter.csproj",
+        "projectName": "Converter",
+        "projectPath": "/Users/tiffie/Documents/Code/Converter/Converter.csproj",
         "packagesPath": "/Users/tiffie/.nuget/packages/",
         "outputPath": "/Users/tiffie/Documents/Code/Converter/obj/",
         "projectStyle": "PackageReference",
